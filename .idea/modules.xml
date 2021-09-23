@@ -2,7 +2,46 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/exA1/exA1.iml" filepath="$PROJECT_DIR$/exA1/exA1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exA2/exA2.iml" filepath="$PROJECT_DIR$/exA2/exA2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exA3/exA3.iml" filepath="$PROJECT_DIR$/exA3/exA3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exA4/exA4.iml" filepath="$PROJECT_DIR$/exA4/exA4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exA5/exA5.iml" filepath="$PROJECT_DIR$/exA5/exA5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exA6/exA6.iml" filepath="$PROJECT_DIR$/exA6/exA6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exB1/exB1.iml" filepath="$PROJECT_DIR$/exB1/exB1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exB2/exB2.iml" filepath="$PROJECT_DIR$/exB2/exB2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exB3/exB3.iml" filepath="$PROJECT_DIR$/exB3/exB3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exB4/exB4.iml" filepath="$PROJECT_DIR$/exB4/exB4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exB5/exB5.iml" filepath="$PROJECT_DIR$/exB5/exB5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exC1/exC1.iml" filepath="$PROJECT_DIR$/exC1/exC1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exC2/exC2.iml" filepath="$PROJECT_DIR$/exC2/exC2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exC3/exC3.iml" filepath="$PROJECT_DIR$/exC3/exC3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exC4/exC4.iml" filepath="$PROJECT_DIR$/exC4/exC4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exC5/exC5.iml" filepath="$PROJECT_DIR$/exC5/exC5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exD1/exD1.iml" filepath="$PROJECT_DIR$/exD1/exD1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exD2/exD2.iml" filepath="$PROJECT_DIR$/exD2/exD2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exE1/exE1.iml" filepath="$PROJECT_DIR$/exE1/exE1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exE2/exE2.iml" filepath="$PROJECT_DIR$/exE2/exE2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exF1/exF1.iml" filepath="$PROJECT_DIR$/exF1/exF1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exF2/exF2.iml" filepath="$PROJECT_DIR$/exF2/exF2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exF3/exF3.iml" filepath="$PROJECT_DIR$/exF3/exF3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exF5/exF5.iml" filepath="$PROJECT_DIR$/exF5/exF5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exG1/exG1.iml" filepath="$PROJECT_DIR$/exG1/exG1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exG2/exG2.iml" filepath="$PROJECT_DIR$/exG2/exG2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exG3/exG3.iml" filepath="$PROJECT_DIR$/exG3/exG3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exG4/exG4.iml" filepath="$PROJECT_DIR$/exG4/exG4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exG5/exG5.iml" filepath="$PROJECT_DIR$/exG5/exG5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exG6/exG6.iml" filepath="$PROJECT_DIR$/exG6/exG6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exG7/exG7.iml" filepath="$PROJECT_DIR$/exG7/exG7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exH1/exH1.iml" filepath="$PROJECT_DIR$/exH1/exH1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exH2/exH2.iml" filepath="$PROJECT_DIR$/exH2/exH2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exH3/exH3.iml" filepath="$PROJECT_DIR$/exH3/exH3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exI1/exI1.iml" filepath="$PROJECT_DIR$/exI1/exI1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exI2/exI2.iml" filepath="$PROJECT_DIR$/exI2/exI2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exI3/exI3.iml" filepath="$PROJECT_DIR$/exI3/exI3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exI4/exI4.iml" filepath="$PROJECT_DIR$/exI4/exI4.iml" />
       <module fileurl="file://$PROJECT_DIR$/helloworld/helloworld.iml" filepath="$PROJECT_DIR$/helloworld/helloworld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testarray/testarray.iml" filepath="$PROJECT_DIR$/testarray/testarray.iml" />
     </modules>
   </component>
 </project>
