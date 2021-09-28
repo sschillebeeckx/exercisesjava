@@ -8,9 +8,5 @@ public class ExA1 {
 		boolean priorKnowledgeRequired = false;
 		
 		System.out.println("The " + title + " course takes " + numberOfDays + " days and costs " + pricePerDay + " euros per day. \nPrior knowledge required: " + priorKnowledgeRequired );
-		
-	
-		
-		
 	}
 }

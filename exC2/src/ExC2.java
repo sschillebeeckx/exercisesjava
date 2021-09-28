@@ -32,7 +32,7 @@ public class ExC2 {
 		
 		
 		//double totalPrice = calculatePrice(numberOfDays, pricePerDay, priorKnowledgeRequired );
-				
+
 		printInfo(title, numberOfDays, pricePerDay, priorKnowledgeRequired,instructors);
 				
 	}
@@ -58,7 +58,7 @@ public class ExC2 {
 		if (!(numberOfDays>3 && priorKnowledgeRequired)) {
 			totalPrice*=1.21;
 		}
-		return totalPrice; 
+		return totalPrice;
 	}
 	
 }

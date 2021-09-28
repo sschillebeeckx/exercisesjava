@@ -5,6 +5,7 @@ import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.util.ArrayList;
+import java.util.Date;
 import java.util.List;
 
 public class Course {
@@ -64,7 +65,14 @@ public class Course {
 	}
 
 	public void addInstructor(Instructor instructor) {
-		instructors.add(instructor);
+		String fn = instructor.getFirstName();
+		if (!instructors.contains(instructor)) {
+			instructors.add(instructor);
+			System.out.println("instructor " + fn + " was added");
+		} else {
+			System.out.println("instructor " + fn +" was already added");
+		}
+
 	}
 	
 	public void removeInstructor(Instructor instructor) {

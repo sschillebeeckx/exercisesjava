@@ -5,6 +5,7 @@ public class ExA2 {
 	public static void main (String[] args) {
 		
 		String title = "Java Programming";
+
 		int numberOfDays = 2;
 		double pricePerDay = 450.5;
 		boolean priorKnowledgeRequired = false;
@@ -12,7 +13,7 @@ public class ExA2 {
 		
 		System.out.println("The " + title + " course takes " + numberOfDays + " days and costs " + pricePerDay + " euros per day. \nPrior knowledge required: " + priorKnowledgeRequired );
 		
-		ArrayList<String> instructors= new ArrayList<>();
+		ArrayList<String> instructors= new ArrayList<String>();
 		instructors.add("Sandy");
 		instructors.add("Gie");
 		

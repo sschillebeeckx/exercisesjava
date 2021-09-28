@@ -6,6 +6,7 @@ public class ExA4 {
 	public static void main (String[] args) {
 		
 		String title = args[0];
+
 		int numberOfDays = Integer.parseInt(args[1]);
 		double pricePerDay = Double.parseDouble(args[2]);
 		boolean priorKnowledgeRequired = false;

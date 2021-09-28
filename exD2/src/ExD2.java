@@ -88,7 +88,7 @@ public class ExD2 {
 	}
 
 
-	public static void printInfo(String title, int numberOfDays, double pricePerDay,boolean priorKnowledgeRequired, List<String> instructors) throws IOException {
+	public static  void printInfo(String title, int numberOfDays, double pricePerDay,boolean priorKnowledgeRequired, List<String> instructors) throws IOException {
 		BufferedWriter bw = Files.newBufferedWriter(Paths.get("exD2\\src\\courseinfo.txt"));
 		double totalPrice = calculatePrice(numberOfDays, pricePerDay, priorKnowledgeRequired );
 		bw.write("The " + title + " course takes " + numberOfDays + " days and costs " + pricePerDay + " per day. \nPrior knowledge required: " + priorKnowledgeRequired +".\n"); String label;
